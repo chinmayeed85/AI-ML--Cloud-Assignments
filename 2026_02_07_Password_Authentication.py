@@ -15,3 +15,6 @@ def check_password(password):
 
 pwd = input("Enter password: ")
 print(check_password(pwd))
+# Sample Output:
+# Enter password: Abc@1234
+# Strong Password ✅
